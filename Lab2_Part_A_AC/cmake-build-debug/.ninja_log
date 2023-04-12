@@ -1,0 +1,11 @@
+# ninja log v5
+1	182	7030174399559552	build.ninja	e293276e01339a86
+1	465	7030174405039524	CMakeFiles/Lab2_Part_A_AC.dir/binarySearch.cpp.obj	95ec45bcf2915e43
+5	474	7030174405119535	CMakeFiles/Lab2_Part_A_AC.dir/main.cpp.obj	134d2624e6cd78f5
+474	629	7030174406649522	Lab2_Part_A_AC.exe	e3a88a4e596154d
+9	415	7030185442461468	CMakeFiles/Lab2_Part_A_AC.dir/binarySearch.cpp.obj	95ec45bcf2915e43
+3	426	7030185442561462	CMakeFiles/Lab2_Part_A_AC.dir/main.cpp.obj	134d2624e6cd78f5
+426	546	7030185443741454	Lab2_Part_A_AC.exe	e3a88a4e596154d
+9	416	7030186504401019	CMakeFiles/Lab2_Part_A_AC.dir/binarySearch.cpp.obj	95ec45bcf2915e43
+4	422	7030186504461027	CMakeFiles/Lab2_Part_A_AC.dir/main.cpp.obj	134d2624e6cd78f5
+422	532	7030186505541020	Lab2_Part_A_AC.exe	e3a88a4e596154d
